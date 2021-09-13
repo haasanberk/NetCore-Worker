@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9793B4EF-152F-4F57-ADB4-E60737CD177F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShopiWorker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ShopiWorker/Worker.cs" Line="44" Column="17" />
+      <File FileName="ShopiWorker/Model/ImportProductsRequest.cs" />
+      <File FileName="ShopiWorker/Model/Filter.cs" />
+      <File FileName="ShopiWorker/Constants.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShopiWorker" expanded="True">
+            <Node name="ShopiWorker" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Category.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
